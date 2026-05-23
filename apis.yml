@@ -1,0 +1,55 @@
+aid: symbotic
+name: Symbotic
+description: >-
+  Symbotic is an AI-powered warehouse automation company that designs,
+  manufactures, and operates end-to-end robotic distribution and
+  micro-fulfillment systems for food and beverage, retail grocery, healthcare,
+  apparel, retail general merchandise, and consumer packaged goods customers.
+  Its portfolio includes the Symbotic distribution solution for case handling,
+  SymMicro for less-than-case micro-fulfillment, autonomous SymBots mobile
+  robots, warehouse AI software, and Warehouse-as-a-Service offerings.
+  Symbotic operates as a hardware-and-services vendor and does not publish a
+  public developer portal or open APIs.
+kind: company
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - AI
+  - Autonomous Mobile Robots
+  - Case Handling
+  - Distribution
+  - Logistics
+  - Micro-Fulfillment
+  - Robotics
+  - Supply Chain
+  - Warehouse Automation
+  - Warehouse as a Service
+url: >-
+  https://raw.githubusercontent.com/api-evangelist/symbotic/refs/heads/main/apis.yml
+created: '2026-05-23'
+modified: '2026-05-23'
+specificationVersion: '0.19'
+apis: []
+common:
+  - type: Website
+    url: https://www.symbotic.com/
+  - type: Solutions
+    url: https://www.symbotic.com/solutions/
+  - type: Industries
+    url: https://www.symbotic.com/industries/
+  - type: AboutUs
+    url: https://www.symbotic.com/company/
+  - type: News
+    url: https://www.symbotic.com/news-and-events/
+  - type: Blog
+    url: https://www.symbotic.com/news-and-events/blog/
+  - type: Careers
+    url: https://www.symbotic.com/careers/
+  - type: InvestorRelations
+    url: https://ir.symbotic.com/
+  - type: ContactUs
+    url: https://www.symbotic.com/contact-us/
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/symbotic/
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
