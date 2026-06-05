@@ -1,0 +1,98 @@
+{
+  "@context": {
+    "@vocab": "https://schema.org/",
+    "symbotic": "https://www.symbotic.com/vocab#",
+    "schema": "https://schema.org/",
+    "skos": "http://www.w3.org/2004/02/skos/core#",
+    "owl": "http://www.w3.org/2002/07/owl#",
+
+    "Organization": "schema:Organization",
+    "name": "schema:name",
+    "url": "schema:url",
+    "description": "schema:description",
+    "industry": "schema:industry",
+    "foundingDate": "schema:foundingDate",
+    "sameAs": "schema:sameAs",
+
+    "WarehouseAutomationSystem": {
+      "@id": "symbotic:WarehouseAutomationSystem",
+      "@type": "@id"
+    },
+    "AutonomousMobileRobot": {
+      "@id": "symbotic:AutonomousMobileRobot",
+      "@type": "@id"
+    },
+    "SymBot": {
+      "@id": "symbotic:SymBot",
+      "@type": "@id"
+    },
+    "SymMicro": {
+      "@id": "symbotic:SymMicro",
+      "@type": "@id"
+    },
+    "DistributionSolution": {
+      "@id": "symbotic:DistributionSolution",
+      "@type": "@id"
+    },
+    "MicroFulfillmentCenter": {
+      "@id": "symbotic:MicroFulfillmentCenter",
+      "@type": "@id"
+    },
+    "WarehouseAsAService": {
+      "@id": "symbotic:WarehouseAsAService",
+      "@type": "@id"
+    },
+    "CaseHandling": {
+      "@id": "symbotic:CaseHandling",
+      "@type": "@id"
+    },
+    "SupplyChain": {
+      "@id": "symbotic:SupplyChain",
+      "@type": "@id"
+    },
+    "FulfillmentSystem": {
+      "@id": "symbotic:FulfillmentSystem",
+      "@type": "@id"
+    },
+    "RoboticPalletization": {
+      "@id": "symbotic:RoboticPalletization",
+      "@type": "@id"
+    },
+    "AIWarehouseSoftware": {
+      "@id": "symbotic:AIWarehouseSoftware",
+      "@type": "@id"
+    },
+    "Teleoperation": {
+      "@id": "symbotic:Teleoperation",
+      "@type": "@id"
+    },
+
+    "hasRobot": {
+      "@id": "symbotic:hasRobot",
+      "@type": "@id"
+    },
+    "hasSolution": {
+      "@id": "symbotic:hasSolution",
+      "@type": "@id"
+    },
+    "operatesIn": {
+      "@id": "symbotic:operatesIn",
+      "@type": "@id"
+    },
+    "throughput": "symbotic:throughput",
+    "capacity": "symbotic:capacity",
+    "automationLevel": "symbotic:automationLevel",
+
+    "Symbotic": {
+      "@id": "schema:Organization",
+      "schema:name": "Symbotic",
+      "schema:url": "https://www.symbotic.com/",
+      "schema:description": "AI-powered warehouse automation company designing and operating end-to-end robotic distribution and micro-fulfillment systems.",
+      "schema:industry": "Industrial Automation / Warehouse Robotics",
+      "schema:sameAs": [
+        "https://www.linkedin.com/company/symbotic/",
+        "https://ir.symbotic.com/"
+      ]
+    }
+  }
+}

@@ -1,0 +1,134 @@
+vocabulary:
+  name: Symbotic Industrial Automation Vocabulary
+  description: >-
+    Key concepts and terminology used by Symbotic in the context of AI-powered
+    warehouse automation, autonomous robotics, and intelligent fulfillment systems.
+  version: "1.0.0"
+  terms:
+
+    - term: SymBot
+      definition: >-
+        Symbotic's proprietary autonomous mobile robot (AMR) that navigates
+        warehouse aisles to store, retrieve, and transport cases or totes within
+        a high-density storage structure using onboard AI and computer vision.
+      tags:
+        - robotics
+        - autonomous-mobile-robot
+        - warehouse-automation
+
+    - term: SymMicro
+      definition: >-
+        Symbotic's micro-fulfillment solution designed for less-than-case (LTC)
+        picking operations, enabling retailers to fulfill individual items or
+        small mixed orders closer to the end consumer.
+      tags:
+        - micro-fulfillment
+        - ecommerce
+        - last-mile
+
+    - term: Warehouse-as-a-Service
+      definition: >-
+        A subscription or outcome-based commercial model in which Symbotic
+        designs, deploys, owns, and operates the automated warehouse
+        infrastructure on behalf of a customer, charging per unit throughput
+        rather than requiring upfront capital expenditure.
+      tags:
+        - business-model
+        - cloud
+        - outcomes-based
+
+    - term: Autonomous Mobile Robot (AMR)
+      definition: >-
+        A self-navigating robotic vehicle that uses sensors, AI, and onboard
+        mapping to move through dynamic warehouse environments without fixed
+        guide paths, performing tasks such as storage, retrieval, and transport.
+      tags:
+        - robotics
+        - autonomy
+        - warehouse-automation
+
+    - term: Case Handling
+      definition: >-
+        The automated process of receiving, sorting, storing, and retrieving
+        full cases (cartons/boxes) of product within a distribution center,
+        as opposed to individual item (each) picking or pallet-level movement.
+      tags:
+        - distribution
+        - logistics
+        - fulfillment
+
+    - term: Micro-Fulfillment Center (MFC)
+      definition: >-
+        A compact, high-density automated storage and retrieval facility
+        located inside or adjacent to a retail store or urban hub, designed
+        to fulfill online grocery and retail orders rapidly with minimal
+        labor.
+      tags:
+        - micro-fulfillment
+        - retail
+        - last-mile
+
+    - term: Robotic Palletization
+      definition: >-
+        The automated process of stacking individual cases or totes onto
+        pallets in an optimized pattern using robotic arms or AMRs, improving
+        pallet stability, space utilization, and throughput compared to manual
+        stacking.
+      tags:
+        - robotics
+        - palletization
+        - distribution
+
+    - term: AI Warehouse Software
+      definition: >-
+        The orchestration and optimization software layer within Symbotic's
+        platform that coordinates robot fleets, manages inventory placement
+        strategies, predicts demand, and optimizes order sequencing using
+        machine learning.
+      tags:
+        - artificial-intelligence
+        - software
+        - orchestration
+
+    - term: Teleoperation
+      definition: >-
+        Remote human-assisted control of a robot—typically invoked when a
+        robot encounters an edge-case situation it cannot resolve autonomously—
+        allowing an operator at a remote station to guide the robot through the
+        exception and return it to autonomous operation.
+      tags:
+        - robotics
+        - remote-control
+        - exception-handling
+
+    - term: Automated Storage and Retrieval System (AS/RS)
+      definition: >-
+        A computer-controlled system using mechanized cranes, shuttles, or
+        robots to automatically place and retrieve loads from defined storage
+        locations, maximizing warehouse density and throughput while minimizing
+        labor.
+      tags:
+        - storage
+        - retrieval
+        - automation
+
+    - term: Throughput
+      definition: >-
+        The number of cases, totes, or orders processed by an automated
+        fulfillment system per unit of time (e.g., cases per hour), used as
+        a primary KPI for warehouse system performance.
+      tags:
+        - metrics
+        - performance
+        - fulfillment
+
+    - term: Distribution Solution
+      definition: >-
+        Symbotic's end-to-end warehouse automation system for large-scale
+        distribution centers handling full-case grocery, general merchandise,
+        apparel, or CPG products, integrating inbound depalletization, storage,
+        retrieval, and outbound palletization.
+      tags:
+        - distribution
+        - warehouse-automation
+        - end-to-end
