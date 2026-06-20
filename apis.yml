@@ -11,7 +11,7 @@ description: >-
   Symbotic operates as a hardware-and-services vendor and does not publish a
   public developer portal or open APIs.
 kind: company
-image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 tags:
   - AI
   - Autonomous Mobile Robots
